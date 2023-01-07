@@ -1,0 +1,23 @@
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\bin\Debug\лаба три.exe.config
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\bin\Debug\лаба три.exe
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\bin\Debug\лаба три.pdb
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба три.csproj.AssemblyReference.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба три.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба_три.Form1.resources
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба_три.Properties.Resources.resources
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба три.csproj.GenerateResource.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба три.csproj.CoreCompileInputs.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба три.exe
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба три.pdb
+C:\Users\denis\учёба\технологии програмирования\лабораторная 3 по методичке\лаба три\obj\Debug\лаба_три.Form2.resources
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\bin\Debug\лаба три.exe.config
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\bin\Debug\лаба три.exe
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\bin\Debug\лаба три.pdb
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба три.csproj.AssemblyReference.cache
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба_три.Form1.resources
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба_три.Form2.resources
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба_три.Properties.Resources.resources
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба три.csproj.GenerateResource.cache
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба три.csproj.CoreCompileInputs.cache
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба три.exe
+E:\Other\Stuff for the university\Технологии программирования\2 семестр\LabWork 3\лаба три\obj\Debug\лаба три.pdb
